@@ -2,7 +2,6 @@
 🔭 I’m currently working on: Developing a novel multi-resolution training framework for Neural Perturbational Inference (NPI) to improve whole-brain connectivity estimation from fMRI data at NYU Langone Health.<br>👯 I’m looking to collaborate on: Open-source MLOps pipelines, Heathcare, or Computational Finance.<br>🤝 I’m looking for help with: Scaling distributed GPU clusters for deep learning and optimizing REST APIs for sub-50ms response times.<br>🌱 I’m currently learning: Advanced implementations of LangGraph, JEPAv4, and Vision Transformers (ViT).<br>⚡ Fun fact: I've synthesized real-time fault detection pipelines that process over 10,000 sensor readings per minute!
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raunak-ahmed-3b3193234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raunakahmed777@gmail.com) 
 
